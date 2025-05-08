@@ -48,7 +48,7 @@
 | 🗂️ Files & Folders    | `15 files`                       |
 | 📦 Dependencies       | Firebase, Google Maps API        |
 | ⏳ Development Time   | ~2 weeks                         |
-| 📁 Repo Size          | ~ (estimate if needed)           |
+| 📁 Repo Size          | ~ 5mb          |
 
 ---
 
